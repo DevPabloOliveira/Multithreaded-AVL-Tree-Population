@@ -24,10 +24,6 @@ Para compilar e executar o programa, siga as instruções abaixo:
 - Compilador GCC
 - Biblioteca pthread.h
 
-# Autor
-
-- Pablo Oliveira
-
 # Histórico de Revisões
 
 - Versão 1.0
